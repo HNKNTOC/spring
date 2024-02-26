@@ -1,1 +1,1 @@
-# spring
+# Заглушка на Spring
